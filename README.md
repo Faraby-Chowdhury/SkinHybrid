@@ -3,7 +3,6 @@ A hybrid ConvNeXt-Tiny model for 8-class dermoscopic lesion classification using
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.5%2B-ee4c2c.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Official implementation and evaluation pipeline for **SkinHybrid**: a hybrid classification architecture for 8-class dermoscopic lesion classification on ISIC 2019, incorporating patient metadata and lesion morphology via Feature-wise Linear Modulation (FiLM) with strict lesion-level group splitting.
 
